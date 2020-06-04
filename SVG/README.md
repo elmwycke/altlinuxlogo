@@ -1,6 +1,6 @@
 SVGs of the logo
 
-#Previews
+# Previews
 
 linux5.6.svg:
 
