@@ -1,4 +1,5 @@
 # Alternative Linux Logo
 
 Preview:
-![Preview](./prieview.png)
+![Preview](./preview.png)
+
