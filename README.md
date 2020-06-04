@@ -1,2 +1,1 @@
-# altlinuxlogo
-alternative llinux logo
+# Alternative Linux Logo
