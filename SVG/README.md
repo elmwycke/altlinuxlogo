@@ -1,0 +1,1 @@
+SVGs of the logo
