@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="93.641998mm"
+   height="132.69299mm"
+   viewBox="0 0 93.641997 132.693"
+   version="1.1"
+   id="svg574"
+   sodipodi:docname="gnupearl2.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs568">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4669-1-5-2-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4669-1-5-2-3-7-8"
+       effect="spiro" />
+    <linearGradient
+       id="linearGradient2359"
+       inkscape:collect="always">
+      <stop
+         id="stop2355"
+         offset="0"
+         style="stop-color:#ebc80e;stop-opacity:1" />
+      <stop
+         id="stop2357"
+         offset="1"
+         style="stop-color:#d4aa00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-131.60547"
+       x2="-54.570549"
+       y1="-291.54004"
+       x1="-216.9938"
+       id="linearGradient1720-5-8"
+       xlink:href="#linearGradient2359"
+       inkscape:collect="always"
+       gradientTransform="matrix(0.35919457,0,0,0.35919457,99.992956,127.05882)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="519.83509"
+     inkscape:cy="1248.0182"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text502-6-6-7"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     showguides="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="650"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata571">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-164.307)">
+    <g
+       id="g611"
+       transform="translate(-12.688684,156.95702)">
+      <g
+         aria-label="GNU/
+LINUX"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.66187286px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79154682"
+         id="text502-6">
+        <g
+           aria-label="
+LINUX"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.66187286px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79154682"
+           id="text502-6-6-7">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1633"
+             d="M 94.893636,48.45245 A 41.102473,41.102473 0 0 1 53.79116,89.55493 41.102473,41.102473 0 0 1 12.688684,48.45245 41.102473,41.102473 0 0 1 53.79116,7.34998 41.102473,41.102473 0 0 1 94.893636,48.45245 Z"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.66187286px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient1720-5-8);fill-opacity:1;stroke:none;stroke-width:2.56589603;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:export-ydpi="604.54645"
+             inkscape:export-xdpi="604.54645"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.66187286px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:4.4953928;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 21.355434,48.8338 C 20.792314,28.37537 39.20442,19.61199 39.20442,19.61199"
+             id="path1635"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1637"
+             d="m 49.76732,16.71857 a 2.2476964,2.2476964 0 0 1 -2.24769,2.24769 2.2476964,2.2476964 0 0 1 -2.2477,-2.24769 2.2476964,2.2476964 0 0 1 2.2477,-2.2477 2.2476964,2.2476964 0 0 1 2.24769,2.2477 z"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.66187286px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.10767651;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <g
+             id="g1657"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.66187286px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79154682"
+             aria-label="GNU/ LINUX"
+             transform="translate(-109.83888,338.7606)">
+            <path
+               inkscape:connector-curvature="0"
+               id="path1639"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.7555542px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';stroke-width:0.79154682"
+               d="m 131.91144,-231.42849 h -0.079 q -0.1778,1.00753 -1.12606,1.69898 -0.92852,0.67169 -2.4892,0.67169 -1.22485,0 -2.27189,-0.45438 -1.02729,-0.45438 -1.79776,-1.34338 -0.75071,-0.90876 -1.18533,-2.23238 -0.43462,-1.32362 -0.43462,-3.06211 0,-1.73849 0.43462,-3.06211 0.45438,-1.34338 1.26435,-2.25213 0.80998,-0.90876 1.93605,-1.38289 1.12606,-0.47413 2.50895,-0.47413 1.85703,0 3.16089,0.80997 1.30387,0.80998 2.05458,2.33116 l -2.11384,1.2446 q -0.37536,-0.889 -1.12607,-1.48167 -0.73096,-0.59266 -1.97556,-0.59266 -1.54093,0 -2.46944,0.94826 -0.90876,0.92851 -0.90876,2.76578 v 2.21262 q 0,1.81751 0.92851,2.76578 0.92852,0.94827 2.4892,0.94827 0.61243,0 1.14583,-0.13829 0.5334,-0.15805 0.92851,-0.45438 0.39511,-0.29633 0.63218,-0.73096 0.23706,-0.43462 0.23706,-1.02729 v -0.889 h -2.70651 v -2.19286 h 5.21547 v 7.50711 h -2.25214 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path1641"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.7555542px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';stroke-width:0.79154682"
+               d="m 141.13729,-236.36738 -1.4224,-2.86456 h -0.0593 v 9.93705 h -2.46945 v -13.78938 h 2.86456 l 4.14867,7.07249 1.4224,2.86456 h 0.0593 v -9.93705 h 2.46945 v 13.78938 h -2.86456 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path1643"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.7555542px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';stroke-width:0.79154682"
+               d="m 153.85986,-243.08427 v 8.47513 q 0,1.61996 0.61242,2.42994 0.63218,0.80998 2.11385,0.80998 1.48166,0 2.09409,-0.80998 0.63217,-0.80998 0.63217,-2.42994 v -8.47513 h 2.56822 v 8.13929 q 0,1.52118 -0.29633,2.62749 -0.27658,1.10631 -0.90875,1.83727 -0.63218,0.73095 -1.65947,1.08655 -1.00753,0.33585 -2.44969,0.33585 -1.46191,0 -2.46944,-0.33585 -0.98778,-0.3556 -1.61996,-1.08655 -0.63218,-0.73096 -0.90875,-1.83727 -0.27658,-1.10631 -0.27658,-2.62749 v -8.13929 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path1645"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:19.7555542px;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';stroke-width:0.79154682"
+               d="m 162.82885,-226.3118 5.66984,-17.6022 h 2.11384 l -5.66984,17.6022 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path1647"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';stroke-width:0.79154682"
+               d="m 124.09654,-199.09803 v -22.09998 h 4.17937 v 18.39554 h 8.70701 v 3.70444 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path1649"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';stroke-width:0.79154682"
+               d="m 139.67418,-199.09803 v -3.35616 h 2.91289 v -15.38767 h -2.91289 v -3.35615 h 10.03681 v 3.35615 h -2.94455 v 15.38767 h 2.94455 v 3.35616 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path1651"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';stroke-width:0.79154682"
+               d="m 160.31767,-210.43298 -2.27965,-4.59097 h -0.095 v 15.92592 h -3.95773 v -22.09998 h 4.59097 l 6.64899,11.33495 2.27966,4.59097 h 0.095 v -15.92592 h 3.95774 v 22.09998 h -4.59098 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path1653"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';stroke-width:0.79154682"
+               d="m 180.70791,-221.19801 v 13.58294 q 0,2.59627 0.98152,3.89441 1.01318,1.29814 3.38782,1.29814 2.37464,0 3.35616,-1.29814 1.01318,-1.29814 1.01318,-3.89441 v -13.58294 h 4.11604 v 13.04469 q 0,2.43796 -0.47493,4.21103 -0.44326,1.77306 -1.45644,2.94455 -1.01318,1.17149 -2.6596,1.7414 -1.61476,0.53826 -3.92607,0.53826 -2.34298,0 -3.95774,-0.53826 -1.58309,-0.56991 -2.59627,-1.7414 -1.01318,-1.17149 -1.45645,-2.94455 -0.44326,-1.77307 -0.44326,-4.21103 v -13.04469 z" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path1655"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';stroke-width:0.79154682"
+               d="m 216.16917,-199.09803 h -4.87593 l -5.0659,-8.48538 h -0.095 l -5.00258,8.48538 h -4.55931 l 7.15558,-11.33495 -6.83896,-10.76503 h 4.87593 l 4.68595,7.85214 h 0.095 l 4.74928,-7.85214 h 4.55931 l -6.90229,10.76503 z" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

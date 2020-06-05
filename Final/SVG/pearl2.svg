@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="92.072998mm"
+   height="125.851mm"
+   viewBox="0 0 92.072994 125.851"
+   version="1.1"
+   id="svg574"
+   sodipodi:docname="pearl2.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <defs
+     id="defs568">
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4669-1-5-2-3"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4669-1-5-2-3-7-8"
+       effect="spiro" />
+    <linearGradient
+       id="linearGradient2359"
+       inkscape:collect="always">
+      <stop
+         id="stop2355"
+         offset="0"
+         style="stop-color:#ebc80e;stop-opacity:1" />
+      <stop
+         id="stop2357"
+         offset="1"
+         style="stop-color:#d4aa00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-131.60547"
+       x2="-54.570549"
+       y1="-291.54004"
+       x1="-216.9938"
+       id="linearGradient1720-5-8-2"
+       xlink:href="#linearGradient2359"
+       inkscape:collect="always"
+       gradientTransform="matrix(0.35919457,0,0,0.35919457,320.15708,-58.683775)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="316.75023"
+     inkscape:cy="586.82933"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text502-6-6-7"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     showguides="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="650"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata571">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-171.14899)">
+    <g
+       id="g611"
+       transform="translate(-12.688684,156.95702)">
+      <g
+         aria-label="GNU/
+LINUX"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.66187286px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79154682"
+         id="text502-6">
+        <g
+           aria-label="
+LINUX"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.66187286px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79154682"
+           id="text502-6-6-7">
+          <g
+             id="g1960"
+             transform="translate(-220.16377,192.58438)">
+            <text
+               id="text502-6-0-9"
+               y="-52.920921"
+               x="230.25656"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.66187096px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.79154682"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';stroke-width:0.79154682"
+                 y="-52.920921"
+                 x="230.25656"
+                 id="tspan500-2-6-5"
+                 sodipodi:role="line">LINUX</tspan></text>
+            <circle
+               inkscape:export-ydpi="604.54645"
+               inkscape:export-xdpi="604.54645"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.66187286px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient1720-5-8-2);fill-opacity:1;stroke:none;stroke-width:2.56589603;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path1568-3-8"
+               cx="273.95529"
+               cy="-137.28993"
+               r="41.102474" />
+            <path
+               inkscape:export-ydpi="604.54645"
+               inkscape:export-xdpi="604.54645"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.66187286px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:4.4953928;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 241.51958,-136.9088 c -0.56313,-20.45843 17.84898,-29.22181 17.84898,-29.22181"
+               id="path1620-1-9"
+               inkscape:connector-curvature="0" />
+            <circle
+               inkscape:export-ydpi="604.54645"
+               inkscape:export-xdpi="604.54645"
+               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:31.66187286px;line-height:1.25;font-family:'IBM Plex Sans';-inkscape-font-specification:'IBM Plex Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.10767651;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path1622-49-2"
+               cx="267.68375"
+               cy="-169.02388"
+               r="2.2476964" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
